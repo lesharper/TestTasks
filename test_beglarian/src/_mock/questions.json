@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What is the difference between null and undefined in JavaScript?",
+    "answer": "Null is an object that represents the absence of a value, while undefined is a type that represents an uninitialized variable.",
+    "complete": false
+  },
+  {
+    "id": 2,
+    "question": "How do you declare a variable in Python?",
+    "answer": "In Python, you don't need to declare variables before using them. You can assign a value to a variable using the assignment operator (=).",
+    "complete": false
+  },
+  {
+    "id": 3,
+    "question": "What is the difference between the '==' and '===' operators in JavaScript?",
+    "answer": "The '==' operator checks for equality in value, while the '===' operator checks for equality in both value and type.",
+    "complete": false
+  },
+  {
+    "id": 4,
+    "question": "How do you sort an array in Java?",
+    "answer": "You can use the Arrays.sort() method to sort an array in Java.",
+    "complete": false
+  },
+  {
+    "id": 5,
+    "question": "What is the difference between a while loop and a for loop?",
+    "answer": "A while loop continues to execute as long as a certain condition is true, while a for loop executes a block of code for each item in a collection.",
+    "complete": false
+  },
+  {
+    "id": 6,
+    "question": "How do you handle errors in Python?",
+    "answer": "You can use try-except blocks to catch and handle exceptions in Python.",
+    "complete": false
+  },
+  {
+    "id": 7,
+    "question": "What is the difference between a class and an object in object-oriented programming?",
+    "answer": "A class is a blueprint for creating objects, while an object is an instance of a class.",
+    "complete": false
+  },
+  {
+    "id": 8,
+    "question": "How do you implement inheritance in Java?",
+    "answer": "You can use the 'extends' keyword to implement inheritance in Java.",
+    "complete": false
+  },
+  {
+    "id": 9,
+    "question": "What is the difference between a stack and a queue data structure?",
+    "answer": "A stack is a last-in-first-out (LIFO) data structure, while a queue is a first-in-first-out (FIFO) data structure.",
+    "complete": false
+  },
+  {
+    "id": 10,
+    "question": "How do you use recursion in programming?",
+    "answer": "Recursion is a programming technique where a function calls itself to solve a problem.",
+    "complete": false
+  },
+  {
+    "id": 11,
+    "question": "What is the difference between a static method and an instance method in Java?",
+    "answer": "A static method belongs to a class, while an instance method belongs to an object.",
+    "complete": false
+  },
+  {
+    "id": 12,
+    "question": "How do you use pointers in C++?",
+    "answer": "Pointers are variables that hold the memory address of another variable.",
+    "complete": false
+  },
+  {
+    "id": 13,
+    "question": "What is the difference between a hash table and a binary search tree?",
+    "answer": "A hash table is a data structure that uses a hash function to map keys to values, while a binary search tree is a data structure that uses a tree-like structure to store data.",
+    "complete": false
+  },
+  {
+    "id": 14,
+    "question": "How do you implement polymorphism in object-oriented programming?",
+    "answer": "Polymorphism is the ability of an object to take on multiple forms, and can be implemented using method overriding or method overloading.",
+    "complete": false
+  },
+  {
+    "id": 15,
+    "question": "What is the difference between a thread and a process?",
+    "answer": "A thread is a lightweight process that shares the same memory space as other threads, while a process is a separate entity that has its own memory space.",
+    "complete": false
+  },
+  {
+    "id": 16,
+    "question": "How do you use a database in a web application?",
+    "answer": "You can use a database to store and retrieve data in a web application, and interact with it using SQL queries.",
+    "complete": false
+  },
+  {
+    "id": 17,
+    "question": "What is the difference between a monolithic architecture and a microservices architecture?",
+    "answer": "A monolithic architecture is a single, self-contained system, while a microservices architecture is a collection of small, independent services.",
+    "complete": false
+  },
+  {
+    "id": 18,
+    "question": "How do you implement security in a web application?",
+    "answer": "You can implement security in a web application using techniques such as authentication, authorization, and encryption.",
+    "complete": false
+  },
+  {
+    "id": 19,
+    "question": "What is the difference between a front-end and a back-end developer?",
+    "answer": "A front-end developer focuses on the client-side of a web application, while a back-end developer focuses on the server-side.",
+    "complete": false
+  },
+  {
+    "id": 20,
+    "question": "What is the difference between a front-end and a back-end developer?",
+    "answer": "A front-end developer focuses on the client-side of a web application, while a back-end developer focuses on the server-side.",
+    "complete": false
+  }
+]

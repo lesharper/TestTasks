@@ -1,0 +1,1 @@
+export { SimpleInfoCardsGroup } from './SimpleInfoCardsGroup'

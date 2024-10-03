@@ -1,0 +1,26 @@
+.tab {
+    padding: 14px 36px;
+    width: 110px;
+
+    border-bottom: 2px solid #dedede;
+
+    cursor: pointer;
+
+    transition: 0.3s ease;
+
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.isActive {
+    color: #FF7355;
+    border-bottom: 2px solid #FF7355;
+}
+
+.tab:hover {
+    background: #f1f1f1;
+
+    transition: 0.3s ease;
+}

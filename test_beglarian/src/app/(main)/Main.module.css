@@ -1,0 +1,14 @@
+.layout {
+    max-width: 360px;
+    margin: 0 auto;
+
+}
+
+.page {
+    padding: 0;
+    position: relative;
+}
+
+.information {
+    padding: 0 16px;
+}

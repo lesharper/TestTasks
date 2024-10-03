@@ -1,0 +1,39 @@
+.card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 58px;
+    width: 58px;
+
+    border-radius: 50%;
+    background: #FFE3DD;
+}
+.info {
+    display: flex;
+    align-items: center;
+
+    gap: 16px;
+}
+
+.title {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    color: #2C2D2E;
+}
+
+.detail {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #87898F;
+}

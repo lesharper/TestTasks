@@ -1,0 +1,1 @@
+export { IconThinArrow } from './IconThinArrow'

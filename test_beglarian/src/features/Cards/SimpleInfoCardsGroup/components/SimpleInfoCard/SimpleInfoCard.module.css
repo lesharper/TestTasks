@@ -1,0 +1,39 @@
+.card {
+    display: flex;
+    align-items: center;
+
+    gap: 8px;
+
+    padding: 16px 12px 16px 12px;
+}
+
+.card_text {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    height: 40px;
+    min-width: 40px;
+
+    border-radius: 50%;
+
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.red {
+    background: rgba(255, 32, 69, 0.1);
+}
+
+.purple {
+    background: rgba(107, 42, 188, 0.1);
+}

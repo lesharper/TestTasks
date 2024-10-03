@@ -1,0 +1,42 @@
+.cell {
+    position: relative;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    max-width: max-content;
+    width: 71px;
+    height: 71px;
+
+    padding: 24px 30px;
+
+    border-radius: 50%;
+
+
+    -webkit-box-shadow: -2px -2px 0px 4px rgba(219, 219, 219, 0.39) inset;
+    -moz-box-shadow: -2px -2px 0px 4px rgba(219, 219, 219, 0.39) inset;
+    box-shadow: -2px -2px 0px 4px rgba(219, 219, 219, 0.39) inset;
+
+    cursor: pointer;
+
+    transition: 0.3s ease;
+
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.cell:hover {
+    background: #f1f1f1;
+
+    transition: 0.3s ease;
+}
+
+.icon {
+    position: absolute;
+
+    top: 0;
+    right: 0;
+}

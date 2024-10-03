@@ -1,0 +1,1 @@
+export { IconCheckMark } from './IconCheckMark'

@@ -1,0 +1,1 @@
+export { IconInfoCard } from './IconInfoCard'

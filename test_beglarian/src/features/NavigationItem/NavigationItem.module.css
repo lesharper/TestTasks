@@ -1,0 +1,53 @@
+.container {
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    gap: 4px;
+    padding: 8px 10px;
+
+    width: 90px;
+
+    font-size: 14px;
+    text-decoration: none;
+
+    color: #87898F;
+
+    transition: 0.5s;
+}
+
+.container:hover > .icon {
+    transition: 0.5s;
+
+    background: rgba(255, 227, 221);
+}
+
+.container:hover > p {
+    transition: 0.5s;
+
+    color: #FF7355;
+}
+
+
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 40px;
+    width: 40px;
+
+    border-radius: 10px;
+}
+
+.active {
+    color: #FF7355;
+}
+
+.activeIcon {
+    background: rgba(255, 227, 221);
+}
